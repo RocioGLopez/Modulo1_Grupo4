@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1708799787 source:c:\users\usuario\desktop\rocio\progra 1\laboratorio mod 1\votos\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
